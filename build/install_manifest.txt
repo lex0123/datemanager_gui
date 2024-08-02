@@ -1,0 +1,2 @@
+/home/lizheng/Desktop/123/gitdirectory/bin/datemanager
+/home/lizheng/Desktop/123/gitdirectory/lib/libMyLibrary.a

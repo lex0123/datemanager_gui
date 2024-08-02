@@ -1,0 +1,14 @@
+/home/lizheng/Desktop/123/gitdirectory/build/CMakeFiles/edit_cache.dir
+/home/lizheng/Desktop/123/gitdirectory/build/CMakeFiles/rebuild_cache.dir
+/home/lizheng/Desktop/123/gitdirectory/build/CMakeFiles/list_install_components.dir
+/home/lizheng/Desktop/123/gitdirectory/build/CMakeFiles/install.dir
+/home/lizheng/Desktop/123/gitdirectory/build/CMakeFiles/install/local.dir
+/home/lizheng/Desktop/123/gitdirectory/build/CMakeFiles/install/strip.dir
+/home/lizheng/Desktop/123/gitdirectory/build/src/CMakeFiles/MyLibrary.dir
+/home/lizheng/Desktop/123/gitdirectory/build/src/CMakeFiles/datemanager.dir
+/home/lizheng/Desktop/123/gitdirectory/build/src/CMakeFiles/edit_cache.dir
+/home/lizheng/Desktop/123/gitdirectory/build/src/CMakeFiles/rebuild_cache.dir
+/home/lizheng/Desktop/123/gitdirectory/build/src/CMakeFiles/list_install_components.dir
+/home/lizheng/Desktop/123/gitdirectory/build/src/CMakeFiles/install.dir
+/home/lizheng/Desktop/123/gitdirectory/build/src/CMakeFiles/install/local.dir
+/home/lizheng/Desktop/123/gitdirectory/build/src/CMakeFiles/install/strip.dir
